@@ -1,0 +1,11 @@
+name: crystal-api
+version: 0.1.0
+
+dependencies:
+
+authors:
+  - Zxce3
+
+targets:
+  crystal-api:
+    main: src/api.cr
